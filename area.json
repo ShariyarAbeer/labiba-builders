@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "area": "Rampura",
     "Details": [
       {
@@ -37,6 +38,7 @@
     ]
   },
   {
+    "id": 2,
     "area": "Banasree",
     "Details": [
       {
@@ -74,6 +76,7 @@
     ]
   },
   {
+    "id": 3,
     "area": "Bashundhara",
     "Details": [
       {
@@ -111,6 +114,7 @@
     ]
   },
   {
+    "id": 4,
     "area": "Uttara",
     "Details": [
       {

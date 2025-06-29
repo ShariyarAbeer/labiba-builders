@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "type": "flat",
+    "area": "Shanti Nogor",
+    "Details": [
+      {
+        "id": 1,
+        "type": "Flat",
+        "address": "ব্লকঃ এন, রোড-২, প্লট: ৪ এবং ৬, সেক্টর: ৪",
+        "land_area": "৬.৮৮ কাঠা",
+        "road": "২৫ ফিট",
+        "building": "বি+জি+৯, ১০ তলা",
+        "flat_location": "দক্ষিণ মুখি",
+        "units_per_floor": "২",
+        "flat_size": "১৮৫০/৩৭০০ বর্গফুট (কমন স্পেস সহ)",
+        "flat_type": "New",
+        "flat_features": "৪ বেড, ৪ বাথরুম, ৪ বারান্দা, ড্রয়িং, ডাইনিং, ফ্যামিলি লিভিং, কিচেন",
+        "number_of_lifts": "১টি",
+        "parking": "বি+জি",
+        "gas": "তিতাস গ্যাস",
+        "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+        "number_of_buildings": "১টি",
+        "total_flats": "১৮টি",
+        "number_of_stair": "১টি",
+        "generator": "আছে",
+        "cctv": true,
+        "youtube_links": "yFHQyHTj3Zc",
+        "facebook_links": "https://www.facebook.com/Labibabuilders/",
+        "share_price_bdt": "৫৫ লক্ষ টাকা",
+        "construction_cost_per_sqft_bdt": "২৫০০ টাকা",
+        "flat_allocation": "লটারির মাধ্যমে অথবা পছন্দ মত",
+        "construction_duration_months": "৩০ থেকে ৩৬",
+        "booking_money_bdt": "৫ লক্ষ টাকা",
+        "contact_numbers": [
+          "01759199900 (WhatsApp & Call)",
+          "01755503030 (WhatsApp)"
+        ],
+        "developers": [
+          "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+          "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+          "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+        ],
+        "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "flat",
+    "area": "Uttora",
+    "Details": [
+      {
+        "id": 1,
+        "type": "Flat",
+        "address": "দক্ষিণ বনশ্রী জামে মসজিদ ৪ এর সামনে (১০ তলা মার্কেট এর কাছে জোড়া খাম্বার পাশেই)",
+        "land_area": "২০ কাঠা",
+        "road": "২৫ ফিট",
+        "building": "বি+জি+১২, ১৩ তলা",
+        "flat_location": "দক্ষিণ পূর্ব কর্নার",
+        "units_per_floor": "১০",
+        "flat_size": "১২৫০/১৩০০ বর্গফুট (কমন স্পেস সহ)",
+        "flat_type": "New",
+        "flat_features": "৩ বেড, ৩ বাথরুম, ৩ বারান্দা, ড্রয়িং, ডাইনিং, ফ্যামিলি লিভিং, কিচেন",
+        "number_of_lifts": "৪টি",
+        "parking": "বি+জি",
+        "gas": "নাই",
+        "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+        "number_of_buildings": "২টি",
+        "total_flats": "১১০টি",
+        "number_of_stair": "২টি",
+        "generator": "আছে",
+        "cctv": true,
+        "youtube_links": "yFHQyHTj3Zc",
+        "facebook_links": "https://www.facebook.com/Labibabuilders/",
+        "share_price_bdt": "৩৭ লক্ষ টাকা",
+        "construction_cost_per_sqft_bdt": "২৫০০ টাকা",
+        "flat_allocation": "লটারির মাধ্যমে অথবা পছন্দ মত",
+        "construction_duration_months": "৩০ থেকে ৩৬",
+        "booking_money_bdt": "৫ লক্ষ টাকা",
+        "contact_numbers": [
+          "01759199900 (WhatsApp & Call)",
+          "01755503030 (WhatsApp)"
+        ],
+        "developers": [
+          "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+          "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+          "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+        ],
+        "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২"
+      },
+      {
+        "id": 2,
+        "type": "Flat",
+        "address": "কাজিবাড়ি, দক্ষিণ বনশ্রী, ঢাকা (মেরাদিয়া বাজারের খুব কাছেই)",
+        "land_area": "৫ কাঠা",
+        "road": "১৬ ফিট",
+        "building": "জি+৯, ১০ তলা",
+        "flat_location": "দক্ষিণ মুখি প্লট",
+        "units_per_floor": "২টি",
+        "flat_size": "১৪৪০ বর্গফুট (কমন স্পেস সহ)",
+        "flat_type": "New",
+        "flat_features": "৩ বেড, ৩ বাথরুম, ৩ বারান্দা, ড্রয়িং, ডাইনিং, ফ্যামিলি লিভিং, কিচেন",
+        "number_of_lifts": "১টি",
+        "parking": "জি",
+        "gas": "নাই",
+        "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+        "number_of_buildings": "১টি",
+        "total_flats": "১৮টি",
+        "number_of_stair": "১টি",
+        "generator": "আছে",
+        "cctv": true,
+        "youtube_links": "yFHQyHTj3Zc",
+        "facebook_links": "https://www.facebook.com/Labibabuilders/",
+        "share_price_bdt": "৪৫ লক্ষ টাকা",
+        "construction_cost_per_sqft_bdt": "৩৫ টাকা",
+        "flat_allocation": "",
+        "construction_duration_months": "৩০ থেকে ৩৬",
+        "booking_money_bdt": "৫ লক্ষ টাকা",
+        "contact_numbers": [
+          "01759199900 (WhatsApp & Call)",
+          "01755503030 (WhatsApp)"
+        ],
+        "developers": [
+          "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+          "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+          "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+        ],
+        "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২"
+      },
+      {
+        "id": 3,
+        "type": "Flat",
+        "address": " ত্রিমহনি , হাজিবাড়ি মোড়",
+        "land_area": "১১.৮ কাঠা",
+        "road": "১৬ ফিট",
+        "building": "জি+৯, ১০ তলা",
+        "flat_location": "পশ্চিম কর্নার",
+        "units_per_floor": "৪",
+        "flat_size": "১৪০৮ বর্গফুট (কমন স্পেস সহ)",
+        "flat_type": "New",
+        "flat_features": "৩ বেড, ৩ বাথরুম, ২ বারান্দা, ড্রয়িং, ডাইনিং, কিচেন",
+        "number_of_lifts": "২টি",
+        "parking": "নাই",
+        "gas": "নাই",
+        "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+        "number_of_buildings": "১টি",
+        "total_flats": "৩৬টি",
+        "number_of_stair": "১টি",
+        "generator": "আছে",
+        "cctv": true,
+        "youtube_links": "yFHQyHTj3Zc",
+        "facebook_links": "https://www.facebook.com/Labibabuilders/",
+        "share_price_bdt": "",
+        "construction_cost_per_sqft_bdt": "৫৫০০ টাকা",
+        "flat_allocation": "৬ষ্ঠ তলা",
+        "construction_duration_months": "",
+        "booking_money_bdt": "৫ লক্ষ টাকা",
+        "contact_numbers": [
+          "01759199900 (WhatsApp & Call)",
+          "01755503030 (WhatsApp)"
+        ],
+        "developers": [
+          "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+          "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+          "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+        ],
+        "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২"
+      },
+      {
+        "id": 4,
+        "type": "Flat",
+        "address": " দক্ষিণ বনশ্রী (জোড়া খাম্বা) ব্লক - কে ,  রোড - **, বাড়ি - **",
+        "land_area": "৩ কাঠা",
+        "road": "২০ ফিট",
+        "building": "জি+৫, ৯ তলা",
+        "flat_location": "উত্তর পূর্ব কর্নার",
+        "units_per_floor": "২",
+        "flat_size": "৯৮০ বর্গফুট (কমন স্পেস সহ)",
+        "flat_type": "Used",
+        "flat_features": "২ বেড, ২ বাথরুম, ২ বারান্দা, ড্রয়িং, ডাইনিং, কিচেন",
+        "number_of_lifts": "নাই",
+        "parking": "আছে",
+        "gas": "আছে",
+        "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+        "number_of_buildings": "১টি",
+        "total_flats": "১০টি",
+        "number_of_stair": "১টি",
+        "generator": "আছে",
+        "cctv": true,
+        "youtube_links": "yFHQyHTj3Zc",
+        "facebook_links": "https://www.facebook.com/Labibabuilders/",
+        "share_price_bdt": "",
+        "construction_cost_per_sqft_bdt": "৬০ লক্ষ টাকা",
+        "flat_allocation": "৬ষ্ঠ তলা",
+        "construction_duration_months": "",
+        "booking_money_bdt": "৫ লক্ষ টাকা",
+        "contact_numbers": [
+          "01759199900 (WhatsApp & Call)",
+          "01755503030 (WhatsApp)"
+        ],
+        "developers": [
+          "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+          "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+          "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+        ],
+        "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২"
+      }
+    ]
+  }
+]

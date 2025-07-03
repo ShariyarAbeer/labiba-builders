@@ -304,5 +304,51 @@
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
+  },
+  {
+    "id": 7,
+    "type": "Flat",
+    "address": "ব্লক: এন, রোড-২, প্লট: ৪ এবং ৬, সেক্টর: ৪, আফতাব নগর, ঢাকা",
+    "land_area": "৬.৮৮ কাঠা",
+    "road": "২৫ ফিট (৫০ ফিট এভিনিউ রোড থেকে ১টি প্লট পরে)",
+    "building": "বি+জি+৯ (১০ তলা)",
+    "flat_location": "দক্ষিণ মুখি",
+    "units_per_floor": "২ টি ইউনিট প্রতি ফ্লোরে",
+    "flat_size": "১৮৫০ / ৩৭০০ বর্গফুট (কমন স্পেস সহ আনুমানিক)",
+    "flat_type": "New",
+    "flat_features": "৪ বেড, ৪ বাথরুম,৪ বারান্দা,ড্রয়িং,ডাইনিং, ফ্যামিলি লিভিং, কিচেন",
+    "number_of_lifts": "উল্লেখ নেই",
+    "parking": "বি + জি (পার্কিং সুবিধা)",
+    "gas": "উল্লেখ নেই",
+    "details": "আফতাব নগর আবাসিক এলাকায় জমির শেয়ার কিনে নির্মাণ খরচে নিজের ফ্ল্যাট নিজেই তৈরি করুন। মোট ১৮ টি শেয়ার। ফ্ল্যাট ও পার্কিং বন্টন লটারির মাধ্যমে অথবা পছন্দ অনুযায়ী। জমির টাকা পরিশোধের সাথে সাথে রেজিস্ট্রেশন। নির্মাণ খরচ কিস্তিতে পরিশোধের সুবিধা। আপনার বিনিয়োগ থাকবে ১০০% সুরক্ষিত।",
+    "number_of_buildings": "১ টি",
+    "total_flats": "১৮ টি",
+    "number_of_stair": "উল্লেখ নেই",
+    "generator": "উল্লেখ নেই",
+    "cctv": "উল্লেখ নেই",
+    "share_price_bdt": "৫৫,০০,০০০ টাকা",
+    "construction_cost_per_sqft_bdt": "২৫০০ টাকা প্রতি বর্গফুট",
+    "flat_allocation": "লটারি অথবা পছন্দ অনুযায়ী",
+    "construction_duration_months": "৩০ থেকে ৩৬ মাস",
+    "booking_money_bdt": "৫,০০,০০০ টাকা",
+    "youtube_links": "yFHQyHTj3Zc",
+    "facebook_links": "https://www.facebook.com/Labibabuilders/",
+
+    "contact_numbers": [
+      "01759199900 (WhatsApp & Call)",
+      "01755503030 (WhatsApp)"
+    ],
+    "developers": [
+      "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+      "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+      "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+    ],
+    "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
+    "image": [
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ]
   }
 ]

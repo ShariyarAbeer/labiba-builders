@@ -45,54 +45,9 @@
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
   },
+
   {
     "id": 9,
-    "type": "Land",
-    "address": "দক্ষিণ বনশ্রী, কে ব্লক, 'দক্ষিণ বনশ্রী জামে মসজিদ-৪' এর সামনে, জোড়া খাম্বার পাশে, ঢাকা",
-    "land_area": "২০ কাঠা",
-    "road": "দক্ষিণ ও পূর্ব পাশে ২৫ ফিট রাস্তা",
-    "building": "বি+জি+১২ (১৩ তলা), ১ম ও ২য় তলা কমার্শিয়াল",
-    "flat_location": "দক্ষিণ-পূর্ব কর্নার",
-    "units_per_floor": "১০ টি ইউনিট প্রতি ফ্লোরে",
-    "flat_size": "১২৫০ - ১৩০০ বর্গফুট (কমন স্পেস সহ আনুমানিক)",
-    "flat_type": "New",
-    "flat_features": "৩ বেড, ৩ বাথরুম, ৩ বারান্দা, ড্রয়িং, ডাইনিং, কিচেন",
-    "number_of_lifts": "৪ টি প্যাসেঞ্জার লিফট",
-    "parking": "প্রতি ইউনিট ১টি, মূল্য ৫ লক্ষ টাকা",
-    "gas": "উল্লেখ নেই",
-    "details": "কম খরচে দক্ষিণ বনশ্রীতে নিজস্ব ফ্ল্যাটের সুযোগ। ১ম ও ২য় তলা কমার্শিয়াল। রুফটপ গার্ডেন, সুইমিং পুল, বার-বি-কিউ কর্ণার সহ আধুনিক সুবিধাসম্পন্ন। বিনিয়োগ থাকবে ১০০% সুরক্ষিত। ফ্ল্যাট বন্টন লটারি মাধ্যমে (টপ ফ্লোর বাদে)।",
-    "number_of_buildings": "১ টি",
-    "total_flats": "১১০ টি",
-    "number_of_stair": "২ টি সিঁড়ি",
-    "generator": "আছে",
-    "cctv": "আছে",
-    "share_price_bdt": "৪০,০০,০০০ টাকা",
-    "construction_cost_per_sqft_bdt": "২৫০০ টাকা প্রতি বর্গফুট",
-    "flat_allocation": "লটারি মাধ্যমে (টপ ফ্লোর বাদে)",
-    "construction_duration_months": "৩৬ মাস",
-    "booking_money_bdt": "৫,০০,০০০ টাকা",
-    "youtube_links": "yFHQyHTj3Zc",
-    "facebook_links": "https://www.facebook.com/Labibabuilders/",
-
-    "contact_numbers": [
-      "01759199900 (WhatsApp & Call)",
-      "01755503030 (WhatsApp)"
-    ],
-    "developers": [
-      "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
-      "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
-      "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
-    ],
-    "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
-    "image": [
-      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    ]
-  },
-  {
-    "id": 10,
     "type": "Land",
     "address": "বসুন্ধরা আবাসিক এলাকা, ব্লক: আই এক্সটেনশন, রোড-৯১, প্লট: ৩০৮৫পি, উত্তর মুখি, বারিধারা, ঢাকা",
     "land_area": "৪ কাঠা",
@@ -138,7 +93,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 10,
     "type": "Land",
     "address": "কাজিবাড়ি, দক্ষিণ বনশ্রী, ঢাকা (মেরাদিয়া বাজারের খুব কাছেই)",
     "land_area": "৫ কাঠা",

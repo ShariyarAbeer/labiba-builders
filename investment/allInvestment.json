@@ -20,7 +20,7 @@
     "number_of_stair": "১টি",
     "generator": "আছে",
     "cctv": true,
-    "youtube_links": "0t1xedOZew8",
+    "youtube_links": "yFHQyHTj3Zc",
     "facebook_links": "https://www.facebook.com/Labibabuilders/",
     "share_price_bdt": "৫৫ লক্ষ টাকা",
     "construction_cost_per_sqft_bdt": "২৫০০ টাকা",
@@ -38,16 +38,56 @@
     ],
     "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
     "image": [
-      "https://scontent.fdac189-1.fna.fbcdn.net/v/t39.30808-6/490531216_687929690307310_657913954435535228_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHgfRVXNWOKFi4_KDCM1RNVr6lxI674qZmvqXEjrvipmZzLl-CEVCps8Psvol83qrJlflLkHR6ohWb3tHjcizpM&_nc_ohc=QDoEVQB5mWkQ7kNvwFuNRQz&_nc_oc=Adm8_IDDPE8x1Vqmuk_k4Jgly0DO6iC16CmJ26ln7YVpFugpU_0C2nTU7cUbtCeLWXE&_nc_zt=23&_nc_ht=scontent.fdac189-1.fna&_nc_gid=5BnirhXxZOjaxCdNgTSCGQ&oh=00_AfSxE7uIBKYZ6MnX1rvVw4czmxKEL_IOH9YVQBPWsWhIVw&oe=68706CA5",
-      "https://drive.google.com/uc?export=view&id=1eFhX5I9SuB4Y17G8jfae8I2L_PybKNwi",
-      "https://drive.google.com/uc?export=view&id=1K86rCnPhPvLefPcqnxqkBU13yW5HKVRo",
-      "https://drive.google.com/uc?export=view&id=1GY5JtP2kJztqUrABqHuP07UQmCjrl3ai",
-      "https://drive.google.com/uc?export=view&id=1QwCTIwhbiSKUbSfLAcOzdTL_mEqhvOrY"
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
   },
-
   {
     "id": 2,
+    "type": "Flat",
+    "address": "দক্ষিণ বনশ্রী জামে মসজিদ ৪ এর সামনে (১০ তলা মার্কেট এর কাছে জোড়া খাম্বার পাশেই)",
+    "land_area": "২০ কাঠা",
+    "road": "২৫ ফিট",
+    "building": "বি+জি+১২, ১৩ তলা",
+    "flat_location": "দক্ষিণ পূর্ব কর্নার",
+    "units_per_floor": "১০",
+    "flat_size": "১২৫০/১৩০০ বর্গফুট (কমন স্পেস সহ)",
+    "flat_type": "New",
+    "flat_features": "৩ বেড, ৩ বাথরুম, ৩ বারান্দা, ড্রয়িং, ডাইনিং, ফ্যামিলি লিভিং, কিচেন",
+    "number_of_lifts": "৪টি",
+    "parking": "বি+জি",
+    "gas": "নাই",
+    "details": "জমির বাকি টাকা জমি রেজিস্ট্রেশন নেওয়ার সময় পরিশোধ করতে হবে এবং আপনার নামে জমির ১৮ অংশের ১টি অংশ রেজিস্ট্রেশন করে দেয়া হবে",
+    "number_of_buildings": "২টি",
+    "total_flats": "১১০টি",
+    "number_of_stair": "২টি",
+    "generator": "আছে",
+    "cctv": true,
+    "youtube_links": "yFHQyHTj3Zc",
+    "facebook_links": "https://www.facebook.com/Labibabuilders/",
+    "share_price_bdt": "৩৭ লক্ষ টাকা",
+    "construction_cost_per_sqft_bdt": "২৫০০ টাকা",
+    "flat_allocation": "লটারির মাধ্যমে অথবা পছন্দ মত",
+    "construction_duration_months": "৩০ থেকে ৩৬",
+    "booking_money_bdt": "৫ লক্ষ টাকা",
+    "contact_numbers": [
+      "01759199900 (WhatsApp & Call)",
+      "01755503030 (WhatsApp)"
+    ],
+    "developers": [
+      "লাবিবা বিল্ডার্স এন্ড কনসালট্যান্ট লিঃ",
+      "মাইক্রো ইনভেস্টমেন্ট এন্ড ডেভেলপমেন্ট সার্ভিসেস (MIDS-মিডস)",
+      "বাড্ডা সাঁতারকুল সঞ্চয় ও ঋণদান সমবায় সমিতি লিঃ"
+    ],
+    "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
+    "image": [
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ]
+  },
+  {
+    "id": 3,
     "type": "Flat",
     "address": "কাজিবাড়ি, দক্ষিণ বনশ্রী, ঢাকা (মেরাদিয়া বাজারের খুব কাছেই)",
     "land_area": "৫ কাঠা",
@@ -85,17 +125,11 @@
     ],
     "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
     "image": [
-      "https://scontent.fdac189-1.fna.fbcdn.net/v/t39.30808-6/506454572_10236763242570703_8177338506721289297_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEdzKORxmPfDCYygmfI3ghGLJ-NpHKpmt0sn42kcqma3UAITSOqChAKBXWeBphJNoh9_0VMSusySrxrmZEQ6yb9&_nc_ohc=W2xrAaxC74YQ7kNvwHC_Eqb&_nc_oc=AdlgFYq3OgP_TD30ZctYPQQrkcIc1JzgQU835SoJLeOdKQ27PF_MjPzk7E4RlMcHoH0&_nc_zt=23&_nc_ht=scontent.fdac189-1.fna&_nc_gid=OdXlTqKoCt_Ih_RrLB9WRg&oh=00_AfRjj-t9pRz8Mh8WvNYfqh4p-Wv_f1zaD06JY5wfCKE0qA&oe=68706433",
-      "https://drive.google.com/uc?export=view&id=1GEokujpCETTUxA6wg0q0anTwOWK4bz0G",
-      "https://drive.google.com/uc?export=view&id=1Hxa0QZBNbk4JMfnxVMjL7sM3XJojVTix",
-      "https://drive.google.com/uc?export=view&id=1jMFli0KKVt6c6Uk8SoQXSZDP7u9VcL3E",
-      "https://drive.google.com/uc?export=view&id=15G2fyoV0I5_LYUfwF6wzUPbMSjT0uMSR",
-      "https://drive.google.com/uc?export=view&id=1VkC-lWtEWsrrNr_V-NdBEJrVyghXkXkA",
-      "https://drive.google.com/uc?export=view&id=1U-cM8Tk5vWk7nm07yrfR4clPecWohFOX"
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "Flat",
     "address": " ত্রিমহনি , হাজিবাড়ি মোড়",
     "land_area": "১১.৮ কাঠা",
@@ -133,20 +167,11 @@
     ],
     "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
     "image": [
-      "https://scontent.fdac189-1.fna.fbcdn.net/v/t39.30808-6/503256439_720408380392774_2286234681171672334_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGcv1aHM1EoxfDekfyx9Gg1ho_BXMwHUUmGj8FczAdRSe6ryDZwImpl2jQh8-LafcjNSRR39W4VeI4hUUwcecfy&_nc_ohc=nWcBGHz1F6cQ7kNvwGm4yJk&_nc_oc=Adk2mfY3cgR1xCciOvq1S0qiQe6Wu8C5iCHp6nw0MZFm14AeA07p5c8scDDb4gY0qUs&_nc_zt=23&_nc_ht=scontent.fdac189-1.fna&_nc_gid=Ypb9MFJ04eMJ31F61kmpDg&oh=00_AfS2RYy4LGmaPlNvdfrphANcBTpDXloCuBiK7GyuIPdvgg&oe=68706E62",
-      "https://drive.google.com/uc?export=view&id=1W42zO99e10X0zk-b249YqVVvk43Nu93J",
-      "https://drive.google.com/uc?export=view&id=1VKq0KlvX-YNBO4qb_x5OeWklh6x0nAPT",
-      "https://drive.google.com/uc?export=view&id=1Vnh_fHSa360JbBNSjEBmkaPVaYIcHuar",
-      "https://drive.google.com/uc?export=view&id=1MsoK9NLREMB8ShlrLIHSFMQO1PkJQAAN",
-      "https://drive.google.com/uc?export=view&id=1wk_f2BhMRA0lY8muGIqhbm0w7RiYbg8Z",
-      "https://drive.google.com/uc?export=view&id=1VCVEtgz_uY1OLbQ7BS2hfOGeKPLru8LZ",
-      "https://drive.google.com/uc?export=view&id=131dC76NIR73Kh4qFKV3RHvcG0ca3vAG_",
-      "https://drive.google.com/uc?export=view&id=1DOCungKjNlDznBUPst8gxBV_emywFkSx",
-      "https://drive.google.com/uc?export=view&id=1ZR8qXJkN5YwUg-AavhFzlBuk34j8-hOO"
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "Flat",
     "address": " দক্ষিণ বনশ্রী (জোড়া খাম্বা) ব্লক - কে ,  রোড - **, বাড়ি - **",
     "land_area": "৩ কাঠা",
@@ -184,21 +209,11 @@
     ],
     "office_address": "পুলিশ প্লাজা কনকর্ড, গুলশান এ্যাভিনিউ, টাওয়ার -এ, লেভেল-১১, অফিস -১১/এইচ, ঢাকা-১২১২",
     "image": [
-      "https://drive.google.com/uc?export=view&id=1Bj0_HiflH2YtWSvXlZYYqvyBF079PwXJ",
-      "https://drive.google.com/uc?export=view&id=1dG_JQBfHmXmjcv9T6_0piG-lWLztF13Z",
-      "https://drive.google.com/uc?export=view&id=1XyiZMkgyjxT6RsDHaMglx5guO0_QhJWU",
-      "https://drive.google.com/uc?export=view&id=1W0Tdftry7zHR7_wKQO843K2VEyUehIjV",
-      "https://drive.google.com/uc?export=view&id=1ebS42kQXi-pz_xAlXCzgwSlZ1p9-Krkk",
-      "https://drive.google.com/uc?export=view&id=1WQPI1zbO_j22qhRSaLmVQJIZyFoDkaMy",
-      "https://drive.google.com/uc?export=view&id=1xvVCwxKzgOdBiUG44TPBZP2Px6ozpw3Z",
-      "https://drive.google.com/uc?export=view&id=1gSQR8lommhEdDt7PbV7wS7ggA82Hy6eF",
-      "https://drive.google.com/uc?export=view&id=1duVA5_P-eohRNzWFgw8yLRgRRLCFAUhi",
-      "https://drive.google.com/uc?export=view&id=1nmw1MvWU_bjlgo2rdMVE0KARHJlDQuv-",
-      "https://drive.google.com/uc?export=view&id=1pjA-Rnh0fE39upRlboK8f49QrwlshfMK"
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "type": "Flat",
     "address": "আই এক্সটেনশন, রোড-৯১. প্লট:  ৩০৮৫পি",
     "land_area": "৪ কাঠা",
@@ -246,7 +261,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "type": "Flat",
     "address": "মানিকনগর বাড়িঃ ******",
     "land_area": "৫.২৮ কাঠা",
